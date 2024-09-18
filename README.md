@@ -1,23 +1,18 @@
-Webflyx
-This project was created while I was learning the fundamentals of Git. It serves as a practical exercise to understand and apply core Git concepts, including:
+# Webflyx
 
-Setup & Config: How to initialize and configure repositories.
-Branching & Merging: Creating branches for development and merging them.
-Rebasing: Rewriting commit history to maintain a clean project history.
-Reset: Undoing or modifying changes.
-Remote: Using GitHub as a remote repository.
-.gitignore: Managing ignored files to keep the repository clean.
-This repository contains a variety of files, including markdown files for literary titles and quotes, as well as CSVs, all designed to showcase my understanding of these Git concepts.
+This project was created as part of my journey to learn the fundamentals of Git and version control. It includes a collection of text files and CSVs to practice branch management, commits, merges, and file tracking.
 
-Key Features
-Branching: Created multiple branches to test feature addition (e.g., add_classics).
-Merging & Rebasing: Merged and rebased branches to maintain a linear commit history.
-.gitignore: Used .gitignore to exclude unnecessary files (like advert.html).
+## Key Concepts Learned
 
-How to Use
-To clone this project:
+- **Setup & Config**: Learned how to initialize and configure Git repositories.
+- **Branching & Merging**: Created branches to add features and merged them into the main branch.
+- **Rebasing**: Used rebasing to maintain a clean, linear commit history.
+- **Reset**: Practiced undoing changes and resetting commits.
+- **Remote**: Pushed local changes to a remote repository on GitHub.
+- **.gitignore**: Created a `.gitignore` file to exclude unnecessary files.
 
+## Project Features
 
-git clone https://github.com/iqzy21/webflyx.git
-Explore the different branches to see how various Git operations were applied!
-
+- **Branching**: Created multiple branches (e.g., `add_classics`) to test feature development.
+- **Merging & Rebasing**: Successfully merged branches and rebased commits to maintain project history.
+- **.gitignore**: Excluded files like `advert.html` to keep the repository clean.
