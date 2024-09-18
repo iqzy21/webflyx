@@ -16,3 +16,11 @@ This project was created as part of my journey to learn the fundamentals of Git 
 - **Branching**: Created multiple branches (e.g., `add_classics`) to test feature development.
 - **Merging & Rebasing**: Successfully merged branches and rebased commits to maintain project history.
 - **.gitignore**: Excluded files like `advert.html` to keep the repository clean.
+
+## How to Use
+
+To clone this project:
+
+```bash
+git clone https://github.com/iqzy21/webflyx.git
+This version is copy-paste friendly and will render perfectly in your `README.md` file.
